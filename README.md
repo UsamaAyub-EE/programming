@@ -16,4 +16,5 @@ Here are all the repo links for all the programming problems I've solved over th
 - [ABC](https://github.com/UsamaAyub-EE/ABC)
 - [equation_solver](https://github.com/UsamaAyub-EE/equation_solver)
 - [Equation-solver](https://github.com/UsamaAyub-EE/Equation-solver)
+- [Event-parser](https://github.com/UsamaAyub-EE/event-parser)
 
